@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of libminer is to …
+The goal of libminer is to . summarize the contents of your library.
 
 ## Installation
 
@@ -27,10 +27,10 @@ use the `lib_summary()`
 library(libminer)
 ## basic example code
 lib_summary()
-#>                                                                       Library
-#> 1                                          C:/Program Files/R/R-4.4.1/library
-#> 2                                                                C:/R_library
-#> 3 C:/Users/McGivneyK/AppData/Local/Temp/1/Rtmpgx1tC1/temp_libpath3e743680153f
+#>                                                                     Library
+#> 1                                        C:/Program Files/R/R-4.4.1/library
+#> 2                                                              C:/R_library
+#> 3 C:/Users/McGivneyK/AppData/Local/Temp/1/Rtmpgx1tC1/temp_libpath3e74a94cf7
 #>   n_packages
 #> 1         29
 #> 2        402
