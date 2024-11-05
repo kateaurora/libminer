@@ -17,7 +17,15 @@
 #' @examples
 
 #' lib_summary()
-lib_summary <- function() {
+#'
+#' @param sizes Should sizes of libraries be calculated.default is 'FALSE'.
+#'
+#'
+lib_summary <- function(sizes=FALSE) {
+if(!is.logical(sizes)){
+    stop("'sizes' must be logical (TRUE or FALSE)")
+
+}
 
   pkgs <- utils::installed.packages()
   #tables the # of rows in lib path
@@ -27,7 +35,18 @@ lib_summary <- function() {
   #give it some names
   names(pkg_df) <- c("Library", "n_packages")
   #return the product at end of code execution
-  pkg_df
 
+
+  if(isTRUE(sizes)){
+    pkg_df$lib_size <- vapply(
+      pkg_df$Library,
+      function(x){
+        sum(fs::file_size(fs::dir_ls(x,recurse=TRUE)))
+      },
+      FUN.VALUE = numeric(1)
+    )
+
+  }
+  pkg_df
 }
 
