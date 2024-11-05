@@ -37,13 +37,14 @@ if(!is.logical(sizes)){
   #return the product at end of code execution
 
 
-  if(isTRUE(sizes)){
-    pkg_df$lib_size <- vapply(
+  if (isTRUE(sizes)) {
+
+    pkg_df$lib_size <- map_dbl(
+
       pkg_df$Library,
-      function(x){
-        sum(fs::file_size(fs::dir_ls(x,recurse=TRUE)))
-      },
-      FUN.VALUE = numeric(1)
+#new short hand for function (x)
+      \(x) sum(fs::file_size(fs::dir_ls(x, recurse = TRUE)))
+
     )
 
   }
