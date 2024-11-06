@@ -6,3 +6,6 @@
 .quarto
 docs
 scratch test.R
+inst/doc
+/doc/
+/Meta/
