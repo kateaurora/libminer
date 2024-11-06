@@ -85,3 +85,32 @@ calculate_sizes <- function(df) {
   df
 
 }
+
+#updated version with tidyverse and more reliability
+# lib_summary <- function(by = LibPath,sizes=FALSE) {
+#
+#   pkg_df <- lib() |>
+#
+#     calculate_sizes(do_calc=sizes)
+#   pkg_df |>
+#     dplyr::group_by({{ by }}) |>
+#     dplyr::summarise(
+#       n = dplyr::n(),
+#       dplyr::across(dplyr::any_of("size"),.fns=sum, .names="size")
+#     )
+#}
+
+#calculate_sizes <- function(df,do_calc=FALSE) {
+# if(!do_calc){
+#return(df)
+#}
+# df |>
+#   dplyr::mutate(
+#     size = map_dbl(
+#       fs::path(.data$LibPath, .data$Package),
+#       \(x) sum(fs::file_size(fs::dir_ls(x, recurse = TRUE)))
+#     )
+#   )
+#
+# }
+#with new code if run lib_summary(sizes=TRUE) should see
