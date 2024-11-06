@@ -1,3 +1,10 @@
+#'R library summary
+#'
+#'@param sizes Should sizes of libraries be calculated. Default `FALSE`
+#'
+#'@return A data frame containing the count of packages in each of the user's library
+#'
+
 lib_summary <- function(sizes = FALSE) {
 
   if (!is.logical(sizes)) {
