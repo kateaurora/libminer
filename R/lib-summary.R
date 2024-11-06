@@ -4,6 +4,7 @@
 #'
 #'@return A data frame containing the count of packages in each of the user's library
 #'
+#'@export
 
 lib_summary <- function(sizes = FALSE) {
 

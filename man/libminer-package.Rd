@@ -12,6 +12,7 @@ summarize libraries by packages. In a course by Andy Teucher.
 Useful links:
 \itemize{
   \item \url{https://github.com/kateaurora/libminer}
+  \item \url{https://kateaurora.github.io/libminer/}
   \item Report bugs at \url{https://github.com/kateaurora/libminer/issues}
 }
 
