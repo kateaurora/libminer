@@ -29,10 +29,10 @@ use the `lib_summary()`
 library(libminer)
 ## basic example code
 lib_summary()
-#>                                                                       Library
-#> 1                                          C:/Program Files/R/R-4.4.1/library
-#> 2                                                                C:/R_library
-#> 3 C:/Users/McGivneyK/AppData/Local/Temp/1/RtmpeYYWYg/temp_libpath6408487c2225
+#>                                                                      Library
+#> 1                                         C:/Program Files/R/R-4.4.1/library
+#> 2                                                               C:/R_library
+#> 3 C:/Users/McGivneyK/AppData/Local/Temp/1/RtmpcT2wXh/temp_libpath9404fcb55fc
 #>   n_packages
 #> 1         29
 #> 2        402
@@ -477,439 +477,439 @@ lib()
 #> tcltk.1                             tcltk
 #> tools.1                             tools
 #> utils.1                             utils
-#>                                                                                          LibPath
-#> libminer             C:/Users/McGivneyK/AppData/Local/Temp/1/RtmpeYYWYg/temp_libpath6408487c2225
-#> abind                                                                               C:/R_library
-#> ade4                                                                                C:/R_library
-#> adegenet                                                                            C:/R_library
-#> affy                                                                                C:/R_library
-#> affyio                                                                              C:/R_library
-#> annotate                                                                            C:/R_library
-#> AnnotationDbi                                                                       C:/R_library
-#> ape                                                                                 C:/R_library
-#> askpass                                                                             C:/R_library
-#> assertthat                                                                          C:/R_library
-#> backports                                                                           C:/R_library
-#> base                                                                                C:/R_library
-#> base64enc                                                                           C:/R_library
-#> BH                                                                                  C:/R_library
-#> Biobase                                                                             C:/R_library
-#> BiocGenerics                                                                        C:/R_library
-#> BiocIO                                                                              C:/R_library
-#> BiocManager                                                                         C:/R_library
-#> BiocParallel                                                                        C:/R_library
-#> BiocVersion                                                                         C:/R_library
-#> Biostrings                                                                          C:/R_library
-#> bit                                                                                 C:/R_library
-#> bit64                                                                               C:/R_library
-#> bitops                                                                              C:/R_library
-#> blob                                                                                C:/R_library
-#> boot                                                                                C:/R_library
-#> brew                                                                                C:/R_library
-#> brio                                                                                C:/R_library
-#> broom                                                                               C:/R_library
-#> BSgenome                                                                            C:/R_library
-#> bslib                                                                               C:/R_library
-#> cachem                                                                              C:/R_library
-#> calibrate                                                                           C:/R_library
-#> callr                                                                               C:/R_library
-#> car                                                                                 C:/R_library
-#> carData                                                                             C:/R_library
-#> caTools                                                                             C:/R_library
-#> cellranger                                                                          C:/R_library
-#> checkmate                                                                           C:/R_library
-#> class                                                                               C:/R_library
-#> classInt                                                                            C:/R_library
-#> cli                                                                                 C:/R_library
-#> clipr                                                                               C:/R_library
-#> clisymbols                                                                          C:/R_library
-#> cluster                                                                             C:/R_library
-#> codetools                                                                           C:/R_library
-#> colorspace                                                                          C:/R_library
-#> combinat                                                                            C:/R_library
-#> commonmark                                                                          C:/R_library
-#> compiler                                                                            C:/R_library
-#> conflicted                                                                          C:/R_library
-#> corpcor                                                                             C:/R_library
-#> corrplot                                                                            C:/R_library
-#> covr                                                                                C:/R_library
-#> cowplot                                                                             C:/R_library
-#> cpp11                                                                               C:/R_library
-#> crayon                                                                              C:/R_library
-#> credentials                                                                         C:/R_library
-#> crosstalk                                                                           C:/R_library
-#> curl                                                                                C:/R_library
-#> cyclocomp                                                                           C:/R_library
-#> dartR                                                                               C:/R_library
-#> dartR.data                                                                          C:/R_library
-#> data.table                                                                          C:/R_library
-#> datasets                                                                            C:/R_library
-#> DBI                                                                                 C:/R_library
-#> dbplyr                                                                              C:/R_library
-#> DelayedArray                                                                        C:/R_library
-#> deldir                                                                              C:/R_library
-#> desc                                                                                C:/R_library
-#> devtools                                                                            C:/R_library
-#> diffobj                                                                             C:/R_library
-#> digest                                                                              C:/R_library
-#> dismo                                                                               C:/R_library
-#> diveRsity                                                                           C:/R_library
-#> DNAcopy                                                                             C:/R_library
-#> DNAtools                                                                            C:/R_library
-#> doParallel                                                                          C:/R_library
-#> doSNOW                                                                              C:/R_library
-#> dotCall64                                                                           C:/R_library
-#> downlit                                                                             C:/R_library
-#> dplyr                                                                               C:/R_library
-#> DT                                                                                  C:/R_library
-#> dtplyr                                                                              C:/R_library
-#> e1071                                                                               C:/R_library
-#> ecodist                                                                             C:/R_library
-#> edgeR                                                                               C:/R_library
-#> ellipsis                                                                            C:/R_library
-#> evaluate                                                                            C:/R_library
-#> expm                                                                                C:/R_library
-#> fansi                                                                               C:/R_library
-#> farver                                                                              C:/R_library
-#> fastmap                                                                             C:/R_library
-#> fastmatch                                                                           C:/R_library
-#> fdrtool                                                                             C:/R_library
-#> fields                                                                              C:/R_library
-#> foghorn                                                                             C:/R_library
-#> fontawesome                                                                         C:/R_library
-#> forcats                                                                             C:/R_library
-#> foreach                                                                             C:/R_library
-#> foreign                                                                             C:/R_library
-#> formatR                                                                             C:/R_library
-#> Formula                                                                             C:/R_library
-#> fs                                                                                  C:/R_library
-#> futile.logger                                                                       C:/R_library
-#> futile.options                                                                      C:/R_library
-#> gap                                                                                 C:/R_library
-#> gap.datasets                                                                        C:/R_library
-#> gargle                                                                              C:/R_library
-#> gaston                                                                              C:/R_library
-#> gdata                                                                               C:/R_library
-#> gdistance                                                                           C:/R_library
-#> gdsfmt                                                                              C:/R_library
-#> genefilter                                                                          C:/R_library
-#> generics                                                                            C:/R_library
-#> genetics                                                                            C:/R_library
-#> genomation                                                                          C:/R_library
-#> GenomeInfoDb                                                                        C:/R_library
-#> GenomeInfoDbData                                                                    C:/R_library
-#> GenomicAlignments                                                                   C:/R_library
-#> GenomicRanges                                                                       C:/R_library
-#> geosphere                                                                           C:/R_library
-#> gert                                                                                C:/R_library
-#> GGally                                                                              C:/R_library
-#> ggfittext                                                                           C:/R_library
-#> ggforce                                                                             C:/R_library
-#> ggplot2                                                                             C:/R_library
-#> ggpubr                                                                              C:/R_library
-#> ggrepel                                                                             C:/R_library
-#> ggsci                                                                               C:/R_library
-#> ggsignif                                                                            C:/R_library
-#> gh                                                                                  C:/R_library
-#> git2r                                                                               C:/R_library
-#> gitcreds                                                                            C:/R_library
-#> glasso                                                                              C:/R_library
-#> glue                                                                                C:/R_library
-#> gmailr                                                                              C:/R_library
-#> goftest                                                                             C:/R_library
-#> googledrive                                                                         C:/R_library
-#> googlesheets4                                                                       C:/R_library
-#> gplots                                                                              C:/R_library
-#> graph4lg                                                                            C:/R_library
-#> graphics                                                                            C:/R_library
-#> grDevices                                                                           C:/R_library
-#> grid                                                                                C:/R_library
-#> gridBase                                                                            C:/R_library
-#> gridExtra                                                                           C:/R_library
-#> gridtext                                                                            C:/R_library
-#> gsmoothr                                                                            C:/R_library
-#> gtable                                                                              C:/R_library
-#> gtools                                                                              C:/R_library
-#> haven                                                                               C:/R_library
-#> hierfstat                                                                           C:/R_library
-#> highr                                                                               C:/R_library
-#> Hmisc                                                                               C:/R_library
-#> hms                                                                                 C:/R_library
-#> htmlTable                                                                           C:/R_library
-#> htmltools                                                                           C:/R_library
-#> htmlwidgets                                                                         C:/R_library
-#> httpuv                                                                              C:/R_library
-#> httr                                                                                C:/R_library
-#> httr2                                                                               C:/R_library
-#> hunspell                                                                            C:/R_library
-#> ids                                                                                 C:/R_library
-#> igraph                                                                              C:/R_library
-#> impute                                                                              C:/R_library
-#> ini                                                                                 C:/R_library
-#> interp                                                                              C:/R_library
-#> IRanges                                                                             C:/R_library
-#> isoband                                                                             C:/R_library
-#> iterators                                                                           C:/R_library
-#> jpeg                                                                                C:/R_library
-#> jquerylib                                                                           C:/R_library
-#> jsonlite                                                                            C:/R_library
-#> kableExtra                                                                          C:/R_library
-#> KEGGREST                                                                            C:/R_library
-#> KernSmooth                                                                          C:/R_library
-#> knitr                                                                               C:/R_library
-#> koRpus                                                                              C:/R_library
-#> labeling                                                                            C:/R_library
-#> lambda.r                                                                            C:/R_library
-#> later                                                                               C:/R_library
-#> lattice                                                                             C:/R_library
-#> latticeExtra                                                                        C:/R_library
-#> lavaan                                                                              C:/R_library
-#> lazyeval                                                                            C:/R_library
-#> LDcorSV                                                                             C:/R_library
-#> leaflet                                                                             C:/R_library
-#> leaflet.providers                                                                   C:/R_library
-#> lifecycle                                                                           C:/R_library
-#> limma                                                                               C:/R_library
-#> lintr                                                                               C:/R_library
-#> lme4                                                                                C:/R_library
-#> locfit                                                                              C:/R_library
-#> lubridate                                                                           C:/R_library
-#> magrittr                                                                            C:/R_library
-#> maps                                                                                C:/R_library
-#> markdown                                                                            C:/R_library
-#> MASS                                                                                C:/R_library
-#> Matrix                                                                              C:/R_library
-#> MatrixGenerics                                                                      C:/R_library
-#> MatrixModels                                                                        C:/R_library
-#> matrixStats                                                                         C:/R_library
-#> memoise                                                                             C:/R_library
-#> methods                                                                             C:/R_library
-#> mgcv                                                                                C:/R_library
-#> mime                                                                                C:/R_library
-#> miniUI                                                                              C:/R_library
-#> minqa                                                                               C:/R_library
-#> mmod                                                                                C:/R_library
-#> mnormt                                                                              C:/R_library
-#> mockery                                                                             C:/R_library
-#> modelr                                                                              C:/R_library
-#> multicool                                                                           C:/R_library
-#> munsell                                                                             C:/R_library
-#> mvtnorm                                                                             C:/R_library
-#> nlme                                                                                C:/R_library
-#> nloptr                                                                              C:/R_library
-#> nnet                                                                                C:/R_library
-#> numDeriv                                                                            C:/R_library
-#> openssl                                                                             C:/R_library
-#> pacman                                                                              C:/R_library
-#> palmerpenguins                                                                      C:/R_library
-#> pander                                                                              C:/R_library
-#> parallel                                                                            C:/R_library
-#> parsedate                                                                           C:/R_library
-#> patchwork                                                                           C:/R_library
-#> pbapply                                                                             C:/R_library
-#> pbivnorm                                                                            C:/R_library
-#> pbkrtest                                                                            C:/R_library
-#> pegas                                                                               C:/R_library
-#> permute                                                                             C:/R_library
-#> phangorn                                                                            C:/R_library
-#> pillar                                                                              C:/R_library
-#> pingr                                                                               C:/R_library
-#> pixmap                                                                              C:/R_library
-#> pkgbuild                                                                            C:/R_library
-#> pkgconfig                                                                           C:/R_library
-#> pkgdown                                                                             C:/R_library
-#> pkgload                                                                             C:/R_library
-#> plogr                                                                               C:/R_library
-#> plotly                                                                              C:/R_library
-#> plotrix                                                                             C:/R_library
-#> plyr                                                                                C:/R_library
-#> png                                                                                 C:/R_library
-#> polyclip                                                                            C:/R_library
-#> polynom                                                                             C:/R_library
-#> polysat                                                                             C:/R_library
-#> PopGenReport                                                                        C:/R_library
-#> poppr                                                                               C:/R_library
-#> praise                                                                              C:/R_library
-#> preprocessCore                                                                      C:/R_library
-#> prettyunits                                                                         C:/R_library
-#> processx                                                                            C:/R_library
-#> profvis                                                                             C:/R_library
-#> progress                                                                            C:/R_library
-#> progressr                                                                           C:/R_library
-#> promises                                                                            C:/R_library
-#> proxy                                                                               C:/R_library
-#> ps                                                                                  C:/R_library
-#> psych                                                                               C:/R_library
-#> purrr                                                                               C:/R_library
-#> qgraph                                                                              C:/R_library
-#> quadprog                                                                            C:/R_library
-#> quantreg                                                                            C:/R_library
-#> quarto                                                                              C:/R_library
-#> R.methodsS3                                                                         C:/R_library
-#> R.oo                                                                                C:/R_library
-#> R.utils                                                                             C:/R_library
-#> R6                                                                                  C:/R_library
-#> ragg                                                                                C:/R_library
-#> rappdirs                                                                            C:/R_library
-#> raster                                                                              C:/R_library
-#> rbibutils                                                                           C:/R_library
-#> rcmdcheck                                                                           C:/R_library
-#> RColorBrewer                                                                        C:/R_library
-#> Rcpp                                                                                C:/R_library
-#> RcppArmadillo                                                                       C:/R_library
-#> RcppEigen                                                                           C:/R_library
-#> RcppParallel                                                                        C:/R_library
-#> RcppProgress                                                                        C:/R_library
-#> RCurl                                                                               C:/R_library
-#> Rdpack                                                                              C:/R_library
-#> readr                                                                               C:/R_library
-#> readxl                                                                              C:/R_library
-#> related                                                                             C:/R_library
-#> rematch                                                                             C:/R_library
-#> rematch2                                                                            C:/R_library
-#> remotes                                                                             C:/R_library
-#> Repitools                                                                           C:/R_library
-#> reprex                                                                              C:/R_library
-#> reshape                                                                             C:/R_library
-#> reshape2                                                                            C:/R_library
-#> restfulr                                                                            C:/R_library
-#> rex                                                                                 C:/R_library
-#> rgdal                                                                               C:/R_library
-#> RGenetics                                                                           C:/R_library
-#> RgoogleMaps                                                                         C:/R_library
-#> Rhtslib                                                                             C:/R_library
-#> rhub                                                                                C:/R_library
-#> Ringo                                                                               C:/R_library
-#> rjson                                                                               C:/R_library
-#> rlang                                                                               C:/R_library
-#> rmarkdown                                                                           C:/R_library
-#> roxygen2                                                                            C:/R_library
-#> rpart                                                                               C:/R_library
-#> rprojroot                                                                           C:/R_library
-#> Rsamtools                                                                           C:/R_library
-#> Rsolnp                                                                              C:/R_library
-#> RSQLite                                                                             C:/R_library
-#> rstatix                                                                             C:/R_library
-#> rstudioapi                                                                          C:/R_library
-#> rtracklayer                                                                         C:/R_library
-#> rubias                                                                              C:/R_library
-#> RUnit                                                                               C:/R_library
-#> rversions                                                                           C:/R_library
-#> rvest                                                                               C:/R_library
-#> s2                                                                                  C:/R_library
-#> S4Vectors                                                                           C:/R_library
-#> SASmixed                                                                            C:/R_library
-#> sass                                                                                C:/R_library
-#> scales                                                                              C:/R_library
-#> segmented                                                                           C:/R_library
-#> selectr                                                                             C:/R_library
-#> seqinr                                                                              C:/R_library
-#> seqPattern                                                                          C:/R_library
-#> sessioninfo                                                                         C:/R_library
-#> sf                                                                                  C:/R_library
-#> shades                                                                              C:/R_library
-#> shiny                                                                               C:/R_library
-#> snow                                                                                C:/R_library
-#> SNPRelate                                                                           C:/R_library
-#> sourcetools                                                                         C:/R_library
-#> sp                                                                                  C:/R_library
-#> spam                                                                                C:/R_library
-#> SparseM                                                                             C:/R_library
-#> spatial                                                                             C:/R_library
-#> spatstat.data                                                                       C:/R_library
-#> spatstat.explore                                                                    C:/R_library
-#> spatstat.geom                                                                       C:/R_library
-#> spatstat.linnet                                                                     C:/R_library
-#> spatstat.model                                                                      C:/R_library
-#> spatstat.random                                                                     C:/R_library
-#> spatstat.sparse                                                                     C:/R_library
-#> spatstat.utils                                                                      C:/R_library
-#> spelling                                                                            C:/R_library
-#> splines                                                                             C:/R_library
-#> StAMPP                                                                              C:/R_library
-#> stats                                                                               C:/R_library
-#> stats4                                                                              C:/R_library
-#> stringi                                                                             C:/R_library
-#> stringr                                                                             C:/R_library
-#> SummarizedExperiment                                                                C:/R_library
-#> survival                                                                            C:/R_library
-#> svglite                                                                             C:/R_library
-#> sylly                                                                               C:/R_library
-#> sys                                                                                 C:/R_library
-#> systemfonts                                                                         C:/R_library
-#> tcltk                                                                               C:/R_library
-#> tensor                                                                              C:/R_library
-#> terra                                                                               C:/R_library
-#> testthat                                                                            C:/R_library
-#> textshaping                                                                         C:/R_library
-#> tibble                                                                              C:/R_library
-#> tidyr                                                                               C:/R_library
-#> tidyselect                                                                          C:/R_library
-#> tidyverse                                                                           C:/R_library
-#> timechange                                                                          C:/R_library
-#> tinytex                                                                             C:/R_library
-#> tools                                                                               C:/R_library
-#> truncnorm                                                                           C:/R_library
-#> tweenr                                                                              C:/R_library
-#> tzdb                                                                                C:/R_library
-#> units                                                                               C:/R_library
-#> urlchecker                                                                          C:/R_library
-#> usethis                                                                             C:/R_library
-#> utf8                                                                                C:/R_library
-#> utils                                                                               C:/R_library
-#> uuid                                                                                C:/R_library
-#> vctrs                                                                               C:/R_library
-#> vegan                                                                               C:/R_library
-#> viridis                                                                             C:/R_library
-#> viridisLite                                                                         C:/R_library
-#> vroom                                                                               C:/R_library
-#> vsn                                                                                 C:/R_library
-#> waldo                                                                               C:/R_library
-#> webfakes                                                                            C:/R_library
-#> whisker                                                                             C:/R_library
-#> whoami                                                                              C:/R_library
-#> withr                                                                               C:/R_library
-#> wk                                                                                  C:/R_library
-#> writexl                                                                             C:/R_library
-#> xfun                                                                                C:/R_library
-#> XML                                                                                 C:/R_library
-#> xml2                                                                                C:/R_library
-#> xmlparsedata                                                                        C:/R_library
-#> xopen                                                                               C:/R_library
-#> xtable                                                                              C:/R_library
-#> XVector                                                                             C:/R_library
-#> yaml                                                                                C:/R_library
-#> zip                                                                                 C:/R_library
-#> zlibbioc                                                                            C:/R_library
-#> base.1                                                        C:/Program Files/R/R-4.4.1/library
-#> boot.1                                                        C:/Program Files/R/R-4.4.1/library
-#> class.1                                                       C:/Program Files/R/R-4.4.1/library
-#> cluster.1                                                     C:/Program Files/R/R-4.4.1/library
-#> codetools.1                                                   C:/Program Files/R/R-4.4.1/library
-#> compiler.1                                                    C:/Program Files/R/R-4.4.1/library
-#> datasets.1                                                    C:/Program Files/R/R-4.4.1/library
-#> foreign.1                                                     C:/Program Files/R/R-4.4.1/library
-#> graphics.1                                                    C:/Program Files/R/R-4.4.1/library
-#> grDevices.1                                                   C:/Program Files/R/R-4.4.1/library
-#> grid.1                                                        C:/Program Files/R/R-4.4.1/library
-#> KernSmooth.1                                                  C:/Program Files/R/R-4.4.1/library
-#> lattice.1                                                     C:/Program Files/R/R-4.4.1/library
-#> MASS.1                                                        C:/Program Files/R/R-4.4.1/library
-#> Matrix.1                                                      C:/Program Files/R/R-4.4.1/library
-#> methods.1                                                     C:/Program Files/R/R-4.4.1/library
-#> mgcv.1                                                        C:/Program Files/R/R-4.4.1/library
-#> nlme.1                                                        C:/Program Files/R/R-4.4.1/library
-#> nnet.1                                                        C:/Program Files/R/R-4.4.1/library
-#> parallel.1                                                    C:/Program Files/R/R-4.4.1/library
-#> rpart.1                                                       C:/Program Files/R/R-4.4.1/library
-#> spatial.1                                                     C:/Program Files/R/R-4.4.1/library
-#> splines.1                                                     C:/Program Files/R/R-4.4.1/library
-#> stats.1                                                       C:/Program Files/R/R-4.4.1/library
-#> stats4.1                                                      C:/Program Files/R/R-4.4.1/library
-#> survival.1                                                    C:/Program Files/R/R-4.4.1/library
-#> tcltk.1                                                       C:/Program Files/R/R-4.4.1/library
-#> tools.1                                                       C:/Program Files/R/R-4.4.1/library
-#> utils.1                                                       C:/Program Files/R/R-4.4.1/library
+#>                                                                                         LibPath
+#> libminer             C:/Users/McGivneyK/AppData/Local/Temp/1/RtmpcT2wXh/temp_libpath9404fcb55fc
+#> abind                                                                              C:/R_library
+#> ade4                                                                               C:/R_library
+#> adegenet                                                                           C:/R_library
+#> affy                                                                               C:/R_library
+#> affyio                                                                             C:/R_library
+#> annotate                                                                           C:/R_library
+#> AnnotationDbi                                                                      C:/R_library
+#> ape                                                                                C:/R_library
+#> askpass                                                                            C:/R_library
+#> assertthat                                                                         C:/R_library
+#> backports                                                                          C:/R_library
+#> base                                                                               C:/R_library
+#> base64enc                                                                          C:/R_library
+#> BH                                                                                 C:/R_library
+#> Biobase                                                                            C:/R_library
+#> BiocGenerics                                                                       C:/R_library
+#> BiocIO                                                                             C:/R_library
+#> BiocManager                                                                        C:/R_library
+#> BiocParallel                                                                       C:/R_library
+#> BiocVersion                                                                        C:/R_library
+#> Biostrings                                                                         C:/R_library
+#> bit                                                                                C:/R_library
+#> bit64                                                                              C:/R_library
+#> bitops                                                                             C:/R_library
+#> blob                                                                               C:/R_library
+#> boot                                                                               C:/R_library
+#> brew                                                                               C:/R_library
+#> brio                                                                               C:/R_library
+#> broom                                                                              C:/R_library
+#> BSgenome                                                                           C:/R_library
+#> bslib                                                                              C:/R_library
+#> cachem                                                                             C:/R_library
+#> calibrate                                                                          C:/R_library
+#> callr                                                                              C:/R_library
+#> car                                                                                C:/R_library
+#> carData                                                                            C:/R_library
+#> caTools                                                                            C:/R_library
+#> cellranger                                                                         C:/R_library
+#> checkmate                                                                          C:/R_library
+#> class                                                                              C:/R_library
+#> classInt                                                                           C:/R_library
+#> cli                                                                                C:/R_library
+#> clipr                                                                              C:/R_library
+#> clisymbols                                                                         C:/R_library
+#> cluster                                                                            C:/R_library
+#> codetools                                                                          C:/R_library
+#> colorspace                                                                         C:/R_library
+#> combinat                                                                           C:/R_library
+#> commonmark                                                                         C:/R_library
+#> compiler                                                                           C:/R_library
+#> conflicted                                                                         C:/R_library
+#> corpcor                                                                            C:/R_library
+#> corrplot                                                                           C:/R_library
+#> covr                                                                               C:/R_library
+#> cowplot                                                                            C:/R_library
+#> cpp11                                                                              C:/R_library
+#> crayon                                                                             C:/R_library
+#> credentials                                                                        C:/R_library
+#> crosstalk                                                                          C:/R_library
+#> curl                                                                               C:/R_library
+#> cyclocomp                                                                          C:/R_library
+#> dartR                                                                              C:/R_library
+#> dartR.data                                                                         C:/R_library
+#> data.table                                                                         C:/R_library
+#> datasets                                                                           C:/R_library
+#> DBI                                                                                C:/R_library
+#> dbplyr                                                                             C:/R_library
+#> DelayedArray                                                                       C:/R_library
+#> deldir                                                                             C:/R_library
+#> desc                                                                               C:/R_library
+#> devtools                                                                           C:/R_library
+#> diffobj                                                                            C:/R_library
+#> digest                                                                             C:/R_library
+#> dismo                                                                              C:/R_library
+#> diveRsity                                                                          C:/R_library
+#> DNAcopy                                                                            C:/R_library
+#> DNAtools                                                                           C:/R_library
+#> doParallel                                                                         C:/R_library
+#> doSNOW                                                                             C:/R_library
+#> dotCall64                                                                          C:/R_library
+#> downlit                                                                            C:/R_library
+#> dplyr                                                                              C:/R_library
+#> DT                                                                                 C:/R_library
+#> dtplyr                                                                             C:/R_library
+#> e1071                                                                              C:/R_library
+#> ecodist                                                                            C:/R_library
+#> edgeR                                                                              C:/R_library
+#> ellipsis                                                                           C:/R_library
+#> evaluate                                                                           C:/R_library
+#> expm                                                                               C:/R_library
+#> fansi                                                                              C:/R_library
+#> farver                                                                             C:/R_library
+#> fastmap                                                                            C:/R_library
+#> fastmatch                                                                          C:/R_library
+#> fdrtool                                                                            C:/R_library
+#> fields                                                                             C:/R_library
+#> foghorn                                                                            C:/R_library
+#> fontawesome                                                                        C:/R_library
+#> forcats                                                                            C:/R_library
+#> foreach                                                                            C:/R_library
+#> foreign                                                                            C:/R_library
+#> formatR                                                                            C:/R_library
+#> Formula                                                                            C:/R_library
+#> fs                                                                                 C:/R_library
+#> futile.logger                                                                      C:/R_library
+#> futile.options                                                                     C:/R_library
+#> gap                                                                                C:/R_library
+#> gap.datasets                                                                       C:/R_library
+#> gargle                                                                             C:/R_library
+#> gaston                                                                             C:/R_library
+#> gdata                                                                              C:/R_library
+#> gdistance                                                                          C:/R_library
+#> gdsfmt                                                                             C:/R_library
+#> genefilter                                                                         C:/R_library
+#> generics                                                                           C:/R_library
+#> genetics                                                                           C:/R_library
+#> genomation                                                                         C:/R_library
+#> GenomeInfoDb                                                                       C:/R_library
+#> GenomeInfoDbData                                                                   C:/R_library
+#> GenomicAlignments                                                                  C:/R_library
+#> GenomicRanges                                                                      C:/R_library
+#> geosphere                                                                          C:/R_library
+#> gert                                                                               C:/R_library
+#> GGally                                                                             C:/R_library
+#> ggfittext                                                                          C:/R_library
+#> ggforce                                                                            C:/R_library
+#> ggplot2                                                                            C:/R_library
+#> ggpubr                                                                             C:/R_library
+#> ggrepel                                                                            C:/R_library
+#> ggsci                                                                              C:/R_library
+#> ggsignif                                                                           C:/R_library
+#> gh                                                                                 C:/R_library
+#> git2r                                                                              C:/R_library
+#> gitcreds                                                                           C:/R_library
+#> glasso                                                                             C:/R_library
+#> glue                                                                               C:/R_library
+#> gmailr                                                                             C:/R_library
+#> goftest                                                                            C:/R_library
+#> googledrive                                                                        C:/R_library
+#> googlesheets4                                                                      C:/R_library
+#> gplots                                                                             C:/R_library
+#> graph4lg                                                                           C:/R_library
+#> graphics                                                                           C:/R_library
+#> grDevices                                                                          C:/R_library
+#> grid                                                                               C:/R_library
+#> gridBase                                                                           C:/R_library
+#> gridExtra                                                                          C:/R_library
+#> gridtext                                                                           C:/R_library
+#> gsmoothr                                                                           C:/R_library
+#> gtable                                                                             C:/R_library
+#> gtools                                                                             C:/R_library
+#> haven                                                                              C:/R_library
+#> hierfstat                                                                          C:/R_library
+#> highr                                                                              C:/R_library
+#> Hmisc                                                                              C:/R_library
+#> hms                                                                                C:/R_library
+#> htmlTable                                                                          C:/R_library
+#> htmltools                                                                          C:/R_library
+#> htmlwidgets                                                                        C:/R_library
+#> httpuv                                                                             C:/R_library
+#> httr                                                                               C:/R_library
+#> httr2                                                                              C:/R_library
+#> hunspell                                                                           C:/R_library
+#> ids                                                                                C:/R_library
+#> igraph                                                                             C:/R_library
+#> impute                                                                             C:/R_library
+#> ini                                                                                C:/R_library
+#> interp                                                                             C:/R_library
+#> IRanges                                                                            C:/R_library
+#> isoband                                                                            C:/R_library
+#> iterators                                                                          C:/R_library
+#> jpeg                                                                               C:/R_library
+#> jquerylib                                                                          C:/R_library
+#> jsonlite                                                                           C:/R_library
+#> kableExtra                                                                         C:/R_library
+#> KEGGREST                                                                           C:/R_library
+#> KernSmooth                                                                         C:/R_library
+#> knitr                                                                              C:/R_library
+#> koRpus                                                                             C:/R_library
+#> labeling                                                                           C:/R_library
+#> lambda.r                                                                           C:/R_library
+#> later                                                                              C:/R_library
+#> lattice                                                                            C:/R_library
+#> latticeExtra                                                                       C:/R_library
+#> lavaan                                                                             C:/R_library
+#> lazyeval                                                                           C:/R_library
+#> LDcorSV                                                                            C:/R_library
+#> leaflet                                                                            C:/R_library
+#> leaflet.providers                                                                  C:/R_library
+#> lifecycle                                                                          C:/R_library
+#> limma                                                                              C:/R_library
+#> lintr                                                                              C:/R_library
+#> lme4                                                                               C:/R_library
+#> locfit                                                                             C:/R_library
+#> lubridate                                                                          C:/R_library
+#> magrittr                                                                           C:/R_library
+#> maps                                                                               C:/R_library
+#> markdown                                                                           C:/R_library
+#> MASS                                                                               C:/R_library
+#> Matrix                                                                             C:/R_library
+#> MatrixGenerics                                                                     C:/R_library
+#> MatrixModels                                                                       C:/R_library
+#> matrixStats                                                                        C:/R_library
+#> memoise                                                                            C:/R_library
+#> methods                                                                            C:/R_library
+#> mgcv                                                                               C:/R_library
+#> mime                                                                               C:/R_library
+#> miniUI                                                                             C:/R_library
+#> minqa                                                                              C:/R_library
+#> mmod                                                                               C:/R_library
+#> mnormt                                                                             C:/R_library
+#> mockery                                                                            C:/R_library
+#> modelr                                                                             C:/R_library
+#> multicool                                                                          C:/R_library
+#> munsell                                                                            C:/R_library
+#> mvtnorm                                                                            C:/R_library
+#> nlme                                                                               C:/R_library
+#> nloptr                                                                             C:/R_library
+#> nnet                                                                               C:/R_library
+#> numDeriv                                                                           C:/R_library
+#> openssl                                                                            C:/R_library
+#> pacman                                                                             C:/R_library
+#> palmerpenguins                                                                     C:/R_library
+#> pander                                                                             C:/R_library
+#> parallel                                                                           C:/R_library
+#> parsedate                                                                          C:/R_library
+#> patchwork                                                                          C:/R_library
+#> pbapply                                                                            C:/R_library
+#> pbivnorm                                                                           C:/R_library
+#> pbkrtest                                                                           C:/R_library
+#> pegas                                                                              C:/R_library
+#> permute                                                                            C:/R_library
+#> phangorn                                                                           C:/R_library
+#> pillar                                                                             C:/R_library
+#> pingr                                                                              C:/R_library
+#> pixmap                                                                             C:/R_library
+#> pkgbuild                                                                           C:/R_library
+#> pkgconfig                                                                          C:/R_library
+#> pkgdown                                                                            C:/R_library
+#> pkgload                                                                            C:/R_library
+#> plogr                                                                              C:/R_library
+#> plotly                                                                             C:/R_library
+#> plotrix                                                                            C:/R_library
+#> plyr                                                                               C:/R_library
+#> png                                                                                C:/R_library
+#> polyclip                                                                           C:/R_library
+#> polynom                                                                            C:/R_library
+#> polysat                                                                            C:/R_library
+#> PopGenReport                                                                       C:/R_library
+#> poppr                                                                              C:/R_library
+#> praise                                                                             C:/R_library
+#> preprocessCore                                                                     C:/R_library
+#> prettyunits                                                                        C:/R_library
+#> processx                                                                           C:/R_library
+#> profvis                                                                            C:/R_library
+#> progress                                                                           C:/R_library
+#> progressr                                                                          C:/R_library
+#> promises                                                                           C:/R_library
+#> proxy                                                                              C:/R_library
+#> ps                                                                                 C:/R_library
+#> psych                                                                              C:/R_library
+#> purrr                                                                              C:/R_library
+#> qgraph                                                                             C:/R_library
+#> quadprog                                                                           C:/R_library
+#> quantreg                                                                           C:/R_library
+#> quarto                                                                             C:/R_library
+#> R.methodsS3                                                                        C:/R_library
+#> R.oo                                                                               C:/R_library
+#> R.utils                                                                            C:/R_library
+#> R6                                                                                 C:/R_library
+#> ragg                                                                               C:/R_library
+#> rappdirs                                                                           C:/R_library
+#> raster                                                                             C:/R_library
+#> rbibutils                                                                          C:/R_library
+#> rcmdcheck                                                                          C:/R_library
+#> RColorBrewer                                                                       C:/R_library
+#> Rcpp                                                                               C:/R_library
+#> RcppArmadillo                                                                      C:/R_library
+#> RcppEigen                                                                          C:/R_library
+#> RcppParallel                                                                       C:/R_library
+#> RcppProgress                                                                       C:/R_library
+#> RCurl                                                                              C:/R_library
+#> Rdpack                                                                             C:/R_library
+#> readr                                                                              C:/R_library
+#> readxl                                                                             C:/R_library
+#> related                                                                            C:/R_library
+#> rematch                                                                            C:/R_library
+#> rematch2                                                                           C:/R_library
+#> remotes                                                                            C:/R_library
+#> Repitools                                                                          C:/R_library
+#> reprex                                                                             C:/R_library
+#> reshape                                                                            C:/R_library
+#> reshape2                                                                           C:/R_library
+#> restfulr                                                                           C:/R_library
+#> rex                                                                                C:/R_library
+#> rgdal                                                                              C:/R_library
+#> RGenetics                                                                          C:/R_library
+#> RgoogleMaps                                                                        C:/R_library
+#> Rhtslib                                                                            C:/R_library
+#> rhub                                                                               C:/R_library
+#> Ringo                                                                              C:/R_library
+#> rjson                                                                              C:/R_library
+#> rlang                                                                              C:/R_library
+#> rmarkdown                                                                          C:/R_library
+#> roxygen2                                                                           C:/R_library
+#> rpart                                                                              C:/R_library
+#> rprojroot                                                                          C:/R_library
+#> Rsamtools                                                                          C:/R_library
+#> Rsolnp                                                                             C:/R_library
+#> RSQLite                                                                            C:/R_library
+#> rstatix                                                                            C:/R_library
+#> rstudioapi                                                                         C:/R_library
+#> rtracklayer                                                                        C:/R_library
+#> rubias                                                                             C:/R_library
+#> RUnit                                                                              C:/R_library
+#> rversions                                                                          C:/R_library
+#> rvest                                                                              C:/R_library
+#> s2                                                                                 C:/R_library
+#> S4Vectors                                                                          C:/R_library
+#> SASmixed                                                                           C:/R_library
+#> sass                                                                               C:/R_library
+#> scales                                                                             C:/R_library
+#> segmented                                                                          C:/R_library
+#> selectr                                                                            C:/R_library
+#> seqinr                                                                             C:/R_library
+#> seqPattern                                                                         C:/R_library
+#> sessioninfo                                                                        C:/R_library
+#> sf                                                                                 C:/R_library
+#> shades                                                                             C:/R_library
+#> shiny                                                                              C:/R_library
+#> snow                                                                               C:/R_library
+#> SNPRelate                                                                          C:/R_library
+#> sourcetools                                                                        C:/R_library
+#> sp                                                                                 C:/R_library
+#> spam                                                                               C:/R_library
+#> SparseM                                                                            C:/R_library
+#> spatial                                                                            C:/R_library
+#> spatstat.data                                                                      C:/R_library
+#> spatstat.explore                                                                   C:/R_library
+#> spatstat.geom                                                                      C:/R_library
+#> spatstat.linnet                                                                    C:/R_library
+#> spatstat.model                                                                     C:/R_library
+#> spatstat.random                                                                    C:/R_library
+#> spatstat.sparse                                                                    C:/R_library
+#> spatstat.utils                                                                     C:/R_library
+#> spelling                                                                           C:/R_library
+#> splines                                                                            C:/R_library
+#> StAMPP                                                                             C:/R_library
+#> stats                                                                              C:/R_library
+#> stats4                                                                             C:/R_library
+#> stringi                                                                            C:/R_library
+#> stringr                                                                            C:/R_library
+#> SummarizedExperiment                                                               C:/R_library
+#> survival                                                                           C:/R_library
+#> svglite                                                                            C:/R_library
+#> sylly                                                                              C:/R_library
+#> sys                                                                                C:/R_library
+#> systemfonts                                                                        C:/R_library
+#> tcltk                                                                              C:/R_library
+#> tensor                                                                             C:/R_library
+#> terra                                                                              C:/R_library
+#> testthat                                                                           C:/R_library
+#> textshaping                                                                        C:/R_library
+#> tibble                                                                             C:/R_library
+#> tidyr                                                                              C:/R_library
+#> tidyselect                                                                         C:/R_library
+#> tidyverse                                                                          C:/R_library
+#> timechange                                                                         C:/R_library
+#> tinytex                                                                            C:/R_library
+#> tools                                                                              C:/R_library
+#> truncnorm                                                                          C:/R_library
+#> tweenr                                                                             C:/R_library
+#> tzdb                                                                               C:/R_library
+#> units                                                                              C:/R_library
+#> urlchecker                                                                         C:/R_library
+#> usethis                                                                            C:/R_library
+#> utf8                                                                               C:/R_library
+#> utils                                                                              C:/R_library
+#> uuid                                                                               C:/R_library
+#> vctrs                                                                              C:/R_library
+#> vegan                                                                              C:/R_library
+#> viridis                                                                            C:/R_library
+#> viridisLite                                                                        C:/R_library
+#> vroom                                                                              C:/R_library
+#> vsn                                                                                C:/R_library
+#> waldo                                                                              C:/R_library
+#> webfakes                                                                           C:/R_library
+#> whisker                                                                            C:/R_library
+#> whoami                                                                             C:/R_library
+#> withr                                                                              C:/R_library
+#> wk                                                                                 C:/R_library
+#> writexl                                                                            C:/R_library
+#> xfun                                                                               C:/R_library
+#> XML                                                                                C:/R_library
+#> xml2                                                                               C:/R_library
+#> xmlparsedata                                                                       C:/R_library
+#> xopen                                                                              C:/R_library
+#> xtable                                                                             C:/R_library
+#> XVector                                                                            C:/R_library
+#> yaml                                                                               C:/R_library
+#> zip                                                                                C:/R_library
+#> zlibbioc                                                                           C:/R_library
+#> base.1                                                       C:/Program Files/R/R-4.4.1/library
+#> boot.1                                                       C:/Program Files/R/R-4.4.1/library
+#> class.1                                                      C:/Program Files/R/R-4.4.1/library
+#> cluster.1                                                    C:/Program Files/R/R-4.4.1/library
+#> codetools.1                                                  C:/Program Files/R/R-4.4.1/library
+#> compiler.1                                                   C:/Program Files/R/R-4.4.1/library
+#> datasets.1                                                   C:/Program Files/R/R-4.4.1/library
+#> foreign.1                                                    C:/Program Files/R/R-4.4.1/library
+#> graphics.1                                                   C:/Program Files/R/R-4.4.1/library
+#> grDevices.1                                                  C:/Program Files/R/R-4.4.1/library
+#> grid.1                                                       C:/Program Files/R/R-4.4.1/library
+#> KernSmooth.1                                                 C:/Program Files/R/R-4.4.1/library
+#> lattice.1                                                    C:/Program Files/R/R-4.4.1/library
+#> MASS.1                                                       C:/Program Files/R/R-4.4.1/library
+#> Matrix.1                                                     C:/Program Files/R/R-4.4.1/library
+#> methods.1                                                    C:/Program Files/R/R-4.4.1/library
+#> mgcv.1                                                       C:/Program Files/R/R-4.4.1/library
+#> nlme.1                                                       C:/Program Files/R/R-4.4.1/library
+#> nnet.1                                                       C:/Program Files/R/R-4.4.1/library
+#> parallel.1                                                   C:/Program Files/R/R-4.4.1/library
+#> rpart.1                                                      C:/Program Files/R/R-4.4.1/library
+#> spatial.1                                                    C:/Program Files/R/R-4.4.1/library
+#> splines.1                                                    C:/Program Files/R/R-4.4.1/library
+#> stats.1                                                      C:/Program Files/R/R-4.4.1/library
+#> stats4.1                                                     C:/Program Files/R/R-4.4.1/library
+#> survival.1                                                   C:/Program Files/R/R-4.4.1/library
+#> tcltk.1                                                      C:/Program Files/R/R-4.4.1/library
+#> tools.1                                                      C:/Program Files/R/R-4.4.1/library
+#> utils.1                                                      C:/Program Files/R/R-4.4.1/library
 #>                         Version    Priority
 #> libminer             0.0.0.9000        <NA>
 #> abind                     1.4-5        <NA>
@@ -2643,7 +2643,7 @@ lib()
 #> tools.1                                                                      <NA>
 #> utils.1                                                                      <NA>
 #>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Suggests
-#> libminer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             testthat (>= 3.0.0)
+#> libminer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         knitr,\nrmarkdown,\ntestthat (>= 3.0.0)
 #> abind                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               <NA>
 #> ade4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ade4TkGUI, adegraphics, adephylo, ape, CircStats, deldir,\nlattice, spdep, splancs, waveslim, progress, foreach, parallel,\ndoParallel, iterators
 #> adegenet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    adespatial, pegas, hierfstat, maps, spdep, interp, splancs,\npoppr, testthat
@@ -4808,27 +4808,3 @@ lib()
 #> tools.1              4.4.1
 #> utils.1              4.4.1
 ```
-
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
-
-``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
-```
-
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub and CRAN.
