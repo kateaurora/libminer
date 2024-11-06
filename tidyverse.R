@@ -75,3 +75,20 @@ big_cars_summary <-
 big_cars_summary(mpg)
 
 
+#working with using acrsoss from DPLYR
+#across() inside data-masking verbs
+summy<-function(df,group_var,cols){
+  df |>
+    group_by({{group_var}}) |>
+    summarise(
+      #need to name them first
+      across({{cols}},.fns=list(min=min,max=max))
+    )
+}
+
+mtcars |>
+  summy(cyl,c(mpg,disp))
+
+#do it across all numeric columns..
+mtcars |>
+  summy(cyl,where(is.numeric))

@@ -158,3 +158,5 @@ var_summary <- function(data, group_var,var) {
 }
 
 var_summary(starwars,species,hair_color)
+
+
